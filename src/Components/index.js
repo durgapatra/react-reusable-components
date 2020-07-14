@@ -1,3 +1,1 @@
-import StarRating from './StarRating'
-
-export { StarRating }
+export { default as StarRating } from './StarRating'
