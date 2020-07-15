@@ -1,13 +1,9 @@
 {
   "name": "react-reusable-components-durgapatra",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": ">",
   "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/durgapatra/react-reusable-components.git"
-  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -52,10 +48,6 @@
   "files": [
     "dist"
   ],
-  "bugs": {
-    "url": "https://github.com/durgapatra/react-reusable-components/issues"
-  },
-  "homepage": "https://github.com/durgapatra/react-reusable-components#readme",
   "directories": {
     "example": "example"
   },
