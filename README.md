@@ -1,13 +1,13 @@
-# react-component
+# react-reusable-components-durgapatra
 
 > 
 
-[![NPM](https://img.shields.io/npm/v/react-component.svg)](https://www.npmjs.com/package/react-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-reusable-components-durgapatra.svg)](https://www.npmjs.com/package/react-reusable-components-durgapatra) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-component
+npm install --save rreact-reusable-components-durgapatra
 ```
 
 ## Usage
@@ -15,12 +15,12 @@ npm install --save react-component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-component'
-import 'react-component/dist/index.css'
+import  {StarRating} from 'react-reusable-components-durgapatra'
+import 'react-reusable-components-durgapatra/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <StarRating />
   }
 }
 ```
